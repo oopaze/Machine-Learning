@@ -8,7 +8,7 @@ but from now, let's start with just a Percpetron.
 Thanks and that's it!
 
 
-Perceptron: A artificial intelligence with just one neuronio and layer
+Perceptron: A artificial intelligence with only one neuronio and layer
 
-RedeNeural: A artificial intelligence with multiples neuronio and just one layer
+RedeNeural: A artificial intelligence with multiples neuronium and only one layer
 
