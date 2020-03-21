@@ -10,5 +10,5 @@ Thanks and that's it!
 
 Perceptron: A artificial intelligence with only one neuronio and layer
 
-RedeNeural: A artificial intelligence with multiples neuronium and only one layer/ tested with Mini Games - Buble Bar 
+RedeNeural: A artificial intelligence with multiples neuronium and only one layer - tested with Mini-Games/buble_bar 
 
