@@ -99,7 +99,7 @@ class NeuralNetwork(object):
             output = 0
 
 
-a = NeuralNetwork(3, [0.29199968510990637, 1.1175997896010426, 3.856095373708764])
+a = NeuralNetwork(3)
 data_base = open('DataBase.ini')
 dados = data_base.readlines()
 print(len(dados))
